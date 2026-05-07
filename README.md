@@ -32,7 +32,6 @@ adminlte
 
 - **AdminLTE** - Template de painel administrativo (Dashboard) de código aberto construído com o framework Bootstrap.
 - **Dicionário de Dados** -Armazenamento de coleções de pares (chave-valor), permitindo busca e recuperação de dados.
-- **CRUD** - Conjunto de quatro operações essenciais que permitem a manipulação de dados persistentes (criar, ler, atualizar e excluir).
 
 #### Execução da aplicação
 
