@@ -28,7 +28,7 @@ adminlte
         |-------| /plugins
 ```
 
-### 📝🛣️ O que você vai encontrar neste projeto
+### O que você vai encontrar neste projeto
 
 
 | Tecnologia | Descrição |
