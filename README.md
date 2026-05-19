@@ -4,11 +4,11 @@ Exemplo de utilização do AdminLTE com Criação de Formulário de Usuário e R
 
 * Template Responsivo AdminLTE 3.2 - rc
 
-###  Disponivel em (https://adminlte.io/ )
+####  Disponivel em (https://adminlte.io/ )
 
 - [AdminLTE](https://github.com/ColorlibHQ/AdminLTE/archive/refs/tags/v3.2.0-rc.zip)
 
-### 📁 Requisitos e Detalhe do uso do AdminLTE
+#### 📁 Requisitos e Detalhe do uso do AdminLTE
 
 Baixar Pacote de Distribuição de Download da biblioteca e descompactar
 
@@ -28,7 +28,7 @@ adminlte
         |-------| /plugins
 ```
 
-### O que você vai encontrar neste projeto
+#### O que você vai encontrar neste projeto
 
 
 | Tecnologia | Descrição |
@@ -36,10 +36,10 @@ adminlte
 | **AdminLTE** | Template de painel administrativo (Dashboard) de código aberto construído com o framework Bootstrap. |
 | **Dicionário de Dados** | Armazenamento de coleções de pares (chave-valor), permitindo busca e recuperação de dados |
 
-###  Execução da aplicação
-Para executar a aplicação é necessário a execução do Script do MySQL. 
+####  Execução da aplicação
+- Para executar a aplicação é necessário a execução do Script do MySQL. 
 
-### 🔐 String de conexão do banco
+#### 🔐 String de conexão do banco
 Modifique a string de conexão no arquivo **Web.config**, no trecho indicado:
 
 ```bash
