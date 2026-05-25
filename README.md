@@ -1,4 +1,4 @@
-## 🌍 AdminLTE3-Net-Mvc-Crud-Usuario
+## 🌍 Net-Mvc-AdminLTE3-Crud
 Exemplo de utilização do AdminLTE com Criação de Formulário de Usuário e Registro da Conta em MVC com banco de dados MySQL.
 
 #### O que você vai encontrar neste projeto
