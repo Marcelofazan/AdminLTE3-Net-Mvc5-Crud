@@ -1,5 +1,5 @@
 ## 🌍 Net-Mvc-AdminLTE3-Crud
-Exemplo de criação de Renderização e utilização do Datatables, realizando um CRUD com AdminLTE3 em .NET MVC Razor com banco de dados MySQL.
+Exemplo de criação de Renderização e utilização do Datatables, realizando um CRUD com AdminLTE3 em .NET MVC5 Razor com banco de dados MySQL.
 
 #### O que você vai encontrar neste projeto
 | Tecnologia | Descrição |
