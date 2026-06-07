@@ -10,7 +10,7 @@ Exemplo de criação de Renderização e utilização do Datatables, realizando 
 
 #### Requisitos do Projeto
 - Para executar a aplicação é necessário executar o Script do MySQL.
-- 
+  
 #### 🔄 Executar a aplicação
 Baixar Pacote de Distribuição de Download da biblioteca e descompactar
 
