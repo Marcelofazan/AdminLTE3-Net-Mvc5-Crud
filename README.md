@@ -2,7 +2,7 @@
 Exemplo de criação de Renderização e utilização do Datatables, realizando um CRUD com AdminLTE3 em .NET MVC5 Razor com banco de dados MySQL.
 
 #### 🎨 Aqui está uma demonstração do projeto
-<img width="1339" height="612" alt="CRUD-AspNet-1-N-AdminLTE" src="https://github.com/user-attachments/assets/5e51fc89-102f-4532-8472-ee729953bac1" />
+<img width="800" height="350" alt="CRUD-AspNet-1-N-AdminLTE" src="https://github.com/user-attachments/assets/5e51fc89-102f-4532-8472-ee729953bac1" />
 
 #### O que você vai encontrar neste projeto
 | Tecnologia | Descrição |
