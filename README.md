@@ -11,7 +11,7 @@ Exemplo de Renderização AdminLTE3 e CRUD utilizando Datatables em C# ASP.NET M
 | **DataTables** | Usada para transformar tabelas HTML simples em componentes altamente interativos com jQuery DataTables |
 | **Dicionário de Dados** | Armazenamento de coleções de pares (chave-valor), permitindo busca e recuperação de dados |
 
-#### Requisitos do Projeto
+#### 💬 Requisitos do Projeto
 - Para executar a aplicação é necessário executar o Script do MySQL.
 - Baixar Pacote de Distribuição de Download da biblioteca e descompactar [AdminLTE](https://github.com/ColorlibHQ/AdminLTE/archive/refs/tags/v3.2.0-rc.zip)
 
