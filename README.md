@@ -1,4 +1,4 @@
-## 🌐 Net-Mvc5-AdminLTE3-Crud
+## 🌐 Net-Mvc5-Crud-AdminLTE3
 Exemplo de Renderização AdminLTE3 e CRUD utilizando Datatables em C# ASP.NET MVC5 com banco de dados MySQL.
 
 #### 🎨 Aqui está uma demonstração do projeto
